@@ -1,4 +1,4 @@
-### Olá, sou José Enódio
+### Olá, Eu sou José Enódio
 
 <div>
   <a href="https://github.com/JoseEnod">
